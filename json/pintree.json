@@ -342,6 +342,13 @@
                 "title": "前台解析中心 | m5bbdd",
                 "icon": "https://logo.clearbit.com/m5dp.xn--4gqs5ymhk43c.eu.org",
                 "url": "https://m5dp.xn--4gqs5ymhk43c.eu.org/user"
+              },
+              {
+                "type": "link",
+                "addDate": 1723383129106,
+                "title": "F4Pan",
+                "icon": "https://logo.clearbit.com/pan.b23.buzz",
+                "url": "https://pan.b23.buzz/#/"
               }
             ]
           },
@@ -2206,6 +2213,27 @@
             "title": "适合所有人的逆向工程",
             "icon": "https://logo.clearbit.com/0xinfection.github.io",
             "url": "https://0xinfection.github.io/reversing/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722267051354,
+            "title": "交互式示例学习基础汇编指令",
+            "icon": "https://logo.clearbit.com/halb.it",
+            "url": "https://halb.it/posts/x64-moving-data/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723305669098,
+            "title": "免费学习编程 - Python、JavaScript、Java、Git 等",
+            "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+            "url": "https://www.freecodecamp.org/chinese/learn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723380256573,
+            "title": "在线学习和练习 Linux， 在线编程",
+            "icon": "https://logo.clearbit.com/www.webminal.org",
+            "url": "https://www.webminal.org/"
           }
         ]
       },
@@ -2741,6 +2769,13 @@
                     "title": "Devv",
                     "icon": "https://logo.clearbit.com/devv.ai",
                     "url": "https://devv.ai/zh/search?threadId=d66wugai2bcw"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723051335894,
+                    "title": "大同AI搜索",
+                    "icon": "https://logo.clearbit.com/datong.info",
+                    "url": "https://datong.info/ui/index.html"
                   }
                 ]
               },
@@ -2951,6 +2986,20 @@
                     "title": "首页 | GitHubStu - GitHub Copilot购买 | Copilot购买 | Copilot Chat购买| AI辅助开发工具",
                     "icon": "https://logo.clearbit.com/shop.githubstu.com",
                     "url": "https://shop.githubstu.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1723381741709,
+                "title": "GPT API购买平台",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1723381714485,
+                    "title": "V3 API",
+                    "icon": "https://logo.clearbit.com/api.gpt.ge",
+                    "url": "https://api.gpt.ge/panel"
                   }
                 ]
               },
@@ -3261,6 +3310,13 @@
                 "title": "Gnomic-智能体平台",
                 "icon": "https://logo.clearbit.com/www.gnomic.cn",
                 "url": "https://www.gnomic.cn/agentCenter/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1723051913892,
+                "title": "AI周易大衍筮法起卦",
+                "icon": "https://logo.clearbit.com/iching.website",
+                "url": "https://iching.website/"
               }
             ]
           },
@@ -3326,13 +3382,6 @@
             "title": "爱盼小站-网盘资源分享站",
             "icon": "https://logo.clearbit.com/aipanxiaozhan.com",
             "url": "https://aipanxiaozhan.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1656999664544,
-            "title": "电话搜索 | TG中文搜索 | 电报中文搜索 | 电报中文导航",
-            "icon": "https://logo.clearbit.com/telsearch.long2ice.io",
-            "url": "https://telsearch.long2ice.io/"
           },
           {
             "type": "link",
@@ -4396,6 +4445,27 @@
             "title": "冥想",
             "icon": "https://logo.clearbit.com/freemind.fit",
             "url": "https://freemind.fit/?sounds=temple%2C1%3Bforest%2C1"
+          },
+          {
+            "type": "link",
+            "addDate": 1722267848077,
+            "title": "免费无限制图片和视频下载工具",
+            "icon": "https://logo.clearbit.com/tiqu.cc",
+            "url": "https://tiqu.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722776631287,
+            "title": "16进制(单精度,双精度,浮点数)转10进制,IEEE-754标准浮点数在线计算器",
+            "icon": "https://logo.clearbit.com/www.23bei.com",
+            "url": "https://www.23bei.com/tool/23.html#"
+          },
+          {
+            "type": "link",
+            "addDate": 1723218846777,
+            "title": "打字练习 --- Typing Practice",
+            "icon": "https://logo.clearbit.com/www.keybr.com",
+            "url": "https://www.keybr.com/"
           }
         ]
       },
@@ -4998,69 +5068,6 @@
             "title": "免费web漏洞扫描 | TRUST YOUR TECHNOLUST",
             "icon": "https://logo.clearbit.com/hak5.com.cn",
             "url": "https://hak5.com.cn/"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1604499955735,
-        "title": "其他",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1660011888473,
-            "title": "搜图神器-一键搜索聚合，海量图片资源免费下载！",
-            "icon": "https://logo.clearbit.com/soutushenqi.com",
-            "url": "http://soutushenqi.com/home"
-          },
-          {
-            "type": "link",
-            "addDate": 1586860879882,
-            "title": "夜雨聆风电脑壁纸",
-            "icon": "https://logo.clearbit.com/tu.yeyulingfeng.com",
-            "url": "http://tu.yeyulingfeng.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1606992787222,
-            "title": "你不好奇 CPU 是如何执行任务的？ – Telegraph",
-            "icon": "https://logo.clearbit.com/telegra.ph",
-            "url": "https://telegra.ph/%E4%BD%A0%E4%B8%8D%E5%A5%BD%E5%A5%87-CPU-%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E7%9A%84-11-13"
-          },
-          {
-            "type": "link",
-            "addDate": 1609734282652,
-            "title": "小爽科技论坛 - 收集发布全网最优质的资源",
-            "icon": "https://logo.clearbit.com/xs.hasoe.cn",
-            "url": "https://xs.hasoe.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1665751900345,
-            "title": "真棒壁纸 - wallhaven.cc",
-            "icon": "https://logo.clearbit.com/wallhaven.cc",
-            "url": "https://wallhaven.cc/"
-          },
-          {
-            "type": "link",
-            "addDate": 1685014986345,
-            "title": "pixivFANBOX",
-            "icon": "https://logo.clearbit.com/www.fanbox.cc",
-            "url": "https://www.fanbox.cc/"
-          },
-          {
-            "type": "link",
-            "addDate": 1696671273919,
-            "title": "以图搜寻",
-            "icon": "https://logo.clearbit.com/xslist.org",
-            "url": "https://xslist.org/zh/searchByImage"
-          },
-          {
-            "type": "link",
-            "addDate": 1698432390467,
-            "title": "残雪导航迎接界面",
-            "icon": "https://logo.clearbit.com/k8.uuxdao.com",
-            "url": "http://k8.uuxdao.com///"
           }
         ]
       },
